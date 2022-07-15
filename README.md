@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact I think I am Amiable Introvert
 
-- 🤝 Let's get in touch and form lasting bonds.
+- 🤝 Let's get in touch and form lasting bonds
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-   <h1> Hey there 👋 , I am Tanuj Goswami </h1>
+   <h1> Hey there 👋, I am Tanuj Goswami </h1>
 </div>
 <img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif">
 

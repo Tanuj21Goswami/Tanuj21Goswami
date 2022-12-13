@@ -1,5 +1,5 @@
 ### 
-<div id="header" align="center">
+<div style="color:light blue; id="header" align="center">
     <img src="https://ak.picdn.net/shutterstock/videos/1087304534/thumb/7.jpg?ip=x480" width="250"/>
 </div>
 

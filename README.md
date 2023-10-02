@@ -6,7 +6,7 @@
 <div  align="center">
    <h1 > Hey there 👋, I am Tanuj Goswami </h1>
 </div>
-<img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj21goswami&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj21goswami" /> </p>
 

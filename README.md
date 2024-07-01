@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj21goswami&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj21goswami" /> </p>
 
-- 🔭 I’m currently a CSE 3<sup>rd</sup> year Undergraduate student at IIT Ropar.
+- 🔭 I’ve recently graduated in BTech CSE from IIT Ropar.
 
 - 🌱 I’m currently learning Python
 
